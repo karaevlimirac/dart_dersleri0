@@ -7,10 +7,10 @@ main(List<String> args) {
   isimler.add("soner");
   isimler.add("dilan");
 
-  bool sonucum = isimler.remove("emre222");
+  bool sonucum = isimler.remove("soner");
   print("sonuc : " + sonucum.toString());
 
-  print("*********");
+  print("*********************************");
 
   for (String s1 in isimler) {
     print("isim : $s1");
