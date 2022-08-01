@@ -1,5 +1,4 @@
 void main(List<String> args) {
-  main(List<String> args) {
   List<int?> sayilar = [];
   sayilar.add(1);
   sayilar.add(2);
@@ -23,6 +22,5 @@ void main(List<String> args) {
   sayilar5.add(5);
   sayilar4.add(10);
   
-}
 
 }
